@@ -20,7 +20,7 @@ public class one {
     if ((nums [i] == a) || (nums [i] == b)) System.out.print(nums [i]+ " ");
    }
   }
-  System.out.print("Эти числа принадлежат последовательностти Фибоначи");
+  System.out.println("Эти числа принадлежат последовательностти Фибоначи");
 System.out.println("Если ничего не вывелось значит, простых чисел нет");
  }
 }
